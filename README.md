@@ -17,7 +17,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/html.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/css.png?raw=true" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/js.png?raw=true" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/4. php.png?raw=true" />
+<img align="left" alt="Sass" width="50px" src="https://github.com/andikhadian/stock-logo/blob/main/4. php.png?raw=true" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/5. java.png?raw=true" />
 <img align="left" alt="React" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/6. dart.png?raw=true" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/8. bootstrap.png?raw=true" />
