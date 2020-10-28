@@ -25,8 +25,8 @@
 <img align="left" alt="MySQL" width="50px" src="https://github.com/andikhadian/stock-logo/blob/main/10. react.png?raw=true" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/11. ci.png?raw=true" />
 <img align="left" alt="Git" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/12. laravel.png?raw=true" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/13. nodejs.png?raw=true" />
-<img align="left" alt="Terminal" width="50px" src="https://github.com/andikhadian/stock-logo/blob/main/14. express.png?raw=true" />
+<img align="left" alt="GitHub" width="50px" src="https://github.com/andikhadian/stock-logo/blob/main/13. nodejs.png?raw=true" />
+<img align="left" alt="Terminal" width="80px" src="https://github.com/andikhadian/stock-logo/blob/main/14. express.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/15. vscode.png?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/andikhadian/stock-logo/blob/main/16. composer.png?raw=true" />
 <img align="left" alt="Terminal" width="50px" src="https://github.com/andikhadian/stock-logo/blob/main/17. npm.png?raw=true" />
