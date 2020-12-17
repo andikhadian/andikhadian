@@ -1,5 +1,4 @@
-### Hi Peeps!, I'm Andikha [![Andikha Dian Nugraha's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/andikhadian)
-
+### Hi Peeps!, I'm Andikha [![Andikha Dian Nugraha's DEV Profile]<img align="left" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 ##  I'm a Web Developer, and Freelancer!
 
 - 🌱 I’m currently learning everything 🤣
