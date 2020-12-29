@@ -1,7 +1,7 @@
 ### Hi Peeps!, I'm Andikha <img align="left" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
 ##  I'm a Web Developer, and Freelancer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything about web technologies 🤣
 
 ### Connect with me:
 
